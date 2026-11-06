@@ -6,8 +6,9 @@ SPADAku adalah aplikasi Android pendamping **SPADA UM Metro** (e-learning Univer
 
 **[⬇️ SPADAku-v1.0.0.apk](release/SPADAku-v1.0.0.apk)** (± 92 MB)
 
+| Informasi | Detail |
 |---|---|
-| Versi | 1.0.0 (build 1) |
+| Versi | 1.0.0 (Build 1) |
 | Android minimal | 7.0 (Nougat) |
 | Arsitektur | Universal (arm64-v8a, armeabi-v7a, x86_64) |
 | SHA-256 | `9a259235af26776f411c7d15112157271356d8fc933eaeaec39a1fb522c80dac` |
