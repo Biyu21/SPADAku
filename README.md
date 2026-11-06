@@ -24,24 +24,6 @@ SPADAku adalah aplikasi Android pendamping **SPADA UM Metro** (e-learning Univer
 - **Forum diskusi** matkul langsung dari aplikasi.
 - **Widget layar utama** dan **kunci sidik jari / PIN HP**.
 
-## Cara memasang
-
-1. Unduh file APK di atas ke HP Android kamu.
-2. Buka file tersebut. Jika muncul peringatan, izinkan **"Instal aplikasi tidak dikenal"** untuk browser atau file manager yang kamu pakai.
-3. Tekan **Instal**, lalu buka SPADAku dan masuk dengan **NPM dan password SPADA** kamu.
-
-Sudah pernah memasang versi sebelumnya? Cukup pasang APK baru di atasnya. Data dan login kamu tetap tersimpan.
-
-## Agar notifikasi absen & tugas selalu muncul
-
-SPADAku mengecek SPADA di latar belakang, termasuk saat aplikasi sudah ditutup dari daftar aplikasi terbaru. Beberapa HP (terutama Xiaomi/Redmi/POCO, Oppo, Vivo, dan Realme) membatasi aplikasi di latar belakang, jadi atur sekali di **Setelan → Aplikasi → SPADAku**:
-
-- **Baterai / Penghemat baterai:** pilih **Tidak dibatasi**.
-- **Mulai otomatis (Autostart):** **aktifkan**.
-- (Opsional) Kunci SPADAku di daftar aplikasi terbaru.
-
-Untuk mengetes, buka **Akun → Pengingat deadline → Kirim notifikasi tes (1 menit)**.
-
 ## Privasi
 
 - Login memakai akun SPADA kamu sendiri.
