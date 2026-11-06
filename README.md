@@ -2,8 +2,6 @@
 
 SPADAku adalah aplikasi Android pendamping **SPADA UM Metro** (e-learning Universitas Muhammadiyah Metro). Cek tugas, absen dari notifikasi, kumpulkan tugas lewat scan, dan atur jadwal kuliah dalam satu genggaman.
 
-> SPADAku dibuat oleh mahasiswa dan **bukan aplikasi resmi** Universitas Muhammadiyah Metro. Semua data tetap berasal dari akun SPADA kamu sendiri.
-
 ## Unduh
 
 **[⬇️ SPADAku-v1.0.0.apk](release/SPADAku-v1.0.0.apk)** (± 92 MB)
